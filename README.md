@@ -80,3 +80,6 @@ app/src/main/java/com/itd/app/
 - Android 8.0+ (API 26)
 - Android Studio Hedgehog+
 - JDK 17
+
+## Оригинальный автор
+https://sovadev.space/
