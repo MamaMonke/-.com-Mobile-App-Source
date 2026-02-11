@@ -83,3 +83,4 @@ app/src/main/java/com/itd/app/
 
 ## Оригинальный автор
 https://sovadev.space/
+MamaMonke получил разрешение на публикацию.
