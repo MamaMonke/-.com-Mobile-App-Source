@@ -1,0 +1,26 @@
+package com.itd.app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val ITDBackground = Color(0xFF0A0A0A)
+val ITDSurface = Color(0xFF141414)
+val ITDSurfaceVariant = Color(0xFF1E1E1E)
+val ITDCard = Color(0xFF1A1A1A)
+val ITDPrimary = Color(0xFF2196F3)
+val ITDPrimaryVariant = Color(0xFF1976D2)
+val ITDAccent = Color(0xFF64B5F6)
+val ITDOnBackground = Color(0xFFE0E0E0)
+val ITDOnSurface = Color(0xFFFFFFFF)
+val ITDOnSurfaceVariant = Color(0xFF9E9E9E)
+val ITDDivider = Color(0xFF2A2A2A)
+val ITDError = Color(0xFFEF5350)
+val ITDSuccess = Color(0xFF4CAF50)
+val ITDLike = Color(0xFFEF5350)
+val ITDRepost = Color(0xFF4CAF50)
+val ITDComment = Color(0xFF64B5F6)
+val ITDVerified = Color(0xFF2196F3)
+val ITDTabActive = Color(0xFF2196F3)
+val ITDTabInactive = Color(0xFF757575)
+val ITDBottomBar = Color(0xFF0F0F0F)
+val ITDInputBackground = Color(0xFF1E1E1E)
+val ITDChip = Color(0xFF2A2A2A)

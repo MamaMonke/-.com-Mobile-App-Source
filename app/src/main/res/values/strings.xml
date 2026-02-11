@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ИТД</string>
+    <string name="tab_feed">Лента</string>
+    <string name="tab_explore">Поиск</string>
+    <string name="tab_notifications">Уведомления</string>
+    <string name="tab_profile">Профиль</string>
+    <string name="popular">Популярное</string>
+    <string name="following">Подписки</string>
+    <string name="what_new">Что нового?</string>
+    <string name="publish">Опубликовать</string>
+    <string name="top_clans">Топ кланов</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти</string>
+    <string name="edit_profile">Редактировать</string>
+    <string name="posts">Посты</string>
+    <string name="liked">Понравившиеся</string>
+    <string name="followers">Подписчики</string>
+    <string name="following_count">Подписки</string>
+    <string name="search_hint">Поиск пользователей и хэштегов</string>
+    <string name="trending_hashtags">Популярные хэштеги</string>
+    <string name="all_notifications">Все</string>
+    <string name="mentions">Упоминания</string>
+    <string name="who_to_follow">Кого читать</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="retry">Повторить</string>
+    <string name="no_posts">Нет постов</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
+</resources>
